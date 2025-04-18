@@ -35,26 +35,6 @@ A comprehensive analysis of bank loan data to track performance, risk assessment
 - Discovered seasonal application peaks (December)
 - Reduced bad loan risk by 8% through data-driven recommendations
 
-## 📂 Repository Structure
-bank-loan-analysis/
-├── data/ # Sample datasets
-├── sql_queries/ # All SQL scripts
-├── powerbi/ # Dashboard files (.pbix)
-├── docs/ # Project documentation
-└── README.md
-
-
-## 🔧 Setup Instructions
-1. **Database Setup**:
-   ```sql
-   CREATE DATABASE bank_loan_data;
-   -- Import provided CSV data
-   Power BI:
-
-2. Connect to your SQL Server instance
-Open bank_loan_analysis.pbix
-
-
 ### Key Features:
 1. **Visual Badges**: Tech stack icons for quick scanning
 2. **Structured Sections**: Clear separation of technical details and business impact
@@ -62,4 +42,3 @@ Open bank_loan_analysis.pbix
 4. **Mobile-Friendly**: Clean markdown formatting
 5. **Call-to-Action**: Setup instructions for collaborators
 
-You can customize the repository structure and license as needed. Would you like me to add specific installation requirements or contribution guidelines?
