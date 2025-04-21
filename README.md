@@ -18,6 +18,8 @@ A comprehensive analysis of bank loan data to track performance, risk assessment
 - MTD/PMTD comparisons
 - Good vs Bad loan analysis
 - Loan status grid view
+- ![Screenshot 2025-04-20 211614](https://github.com/user-attachments/assets/ee56c82a-ae91-48f8-800a-d9368a54dfb6)
+
 
 ### 2. Overview Dashboard
 - Monthly trends (line chart)
