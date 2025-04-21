@@ -27,9 +27,14 @@ A comprehensive analysis of bank loan data to track performance, risk assessment
 - Loan term distribution (donut chart)
 - Purpose/employment length breakdowns
 
+![Screenshot 2025-04-20 211720](https://github.com/user-attachments/assets/e344e8fb-1537-46ef-b8c8-f2de6971d2d5)
+
+
+
 ### 3. Details Dashboard
 - Comprehensive loan portfolio snapshot
 - Borrower profile insights
+![Screenshot 2025-04-20 211734](https://github.com/user-attachments/assets/3fb06654-0b0c-4b85-b63f-8b5dab87c4f6)
 
 ## 🚀 Key Achievements
 - Automated 25+ critical loan metrics via SQL queries
